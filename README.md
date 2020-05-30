@@ -1,7 +1,7 @@
 # yelp_camp
 
-![](yc home page.png)
-![](landing page.png)
-![](login sign up.png)
-![](show page.png)
-![](show page commnts.png)
+![](yc%20home%20page.png)
+![](landing%20page.png)
+![](login%20sign%20up.png)
+![](show%20page.png)
+![](show%20page%20commnts.png)
